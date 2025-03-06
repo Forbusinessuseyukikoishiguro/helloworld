@@ -1,0 +1,11 @@
+# 仮想環境
+venv/
+helloworld_project/helloworld_env/
+
+# データベース
+*.sqlite3
+
+# Pythonのキャッシュファイル
+__pycache__/
+*.py[cod]
+*$py.class
